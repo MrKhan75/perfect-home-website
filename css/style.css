@@ -1,0 +1,15 @@
+.font-inter {
+    font-family: "Inter", sans-serif;
+}
+.font-script {
+    font-family: "Dancing Script", cursive;
+}
+
+.selectArea:focus{
+    border:none;
+}
+
+.contact{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../images/C-2.avif');
+    object-fit: cover;
+}
